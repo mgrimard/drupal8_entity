@@ -1,0 +1,15 @@
+add drupal8 entity item entities:
+  title: 'Create new Drupal8 Entity Item entities'
+
+administer drupal8 entity item entities:
+  title: 'Administer Drupal8 Entity Item entities'
+  description: 'Allow to access the administration form to configure Drupal8 Entity Item entities.'
+
+delete drupal8 entity item entities:
+  title: 'Delete Drupal8 Entity Item entities'
+
+edit drupal8 entity item entities:
+  title: 'Edit Drupal8 Entity Item entities'
+
+view drupal8 entity item entities:
+  title: 'View Drupal8 Entity Item entities'

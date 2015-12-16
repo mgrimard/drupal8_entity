@@ -1,0 +1,13 @@
+# Drupal8 Entity Item menu items definition
+entity.drupal8_entity_item.collection:
+  title: 'Drupal8 Entity Item list'
+  route_name: entity.drupal8_entity_item.collection
+  description: 'List Drupal8 Entity Item entities'
+  parent: system.admin_structure
+   weight: 100
+
+drupal8_entity_item.admin.structure.settings:
+  title: Drupal8 Entity Item settings
+  description: 'Configure Drupal8 Entity Item entities'
+  route_name: drupal8_entity_item.settings
+  parent: system.admin_structure

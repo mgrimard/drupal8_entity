@@ -1,0 +1,21 @@
+# Drupal8 Entity Item routing definition
+drupal8_entity_item.settings_tab:
+  route_name: drupal8_entity_item.settings
+  title: 'Settings'
+  base_route: drupal8_entity_item.settings
+entity.drupal8_entity_item.canonical:
+  route_name: entity.drupal8_entity_item.canonical
+  base_route: entity.drupal8_entity_item.canonical
+  title: 'View'
+
+entity.drupal8_entity_item.edit_form:
+  route_name: entity.drupal8_entity_item.edit_form
+  base_route: entity.drupal8_entity_item.canonical
+  title: Edit
+
+entity.drupal8_entity_item.delete_form:
+  route_name:  entity.drupal8_entity_item.delete_form
+  base_route:  entity.drupal8_entity_item.canonical
+  title: Delete
+  weight: 10
+
