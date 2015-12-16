@@ -1,0 +1,5 @@
+name: drupal8_entity
+type: module
+description: Drupal 8 Test module for working with entities.
+core: 8.x
+package: Other

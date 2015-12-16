@@ -1,0 +1,14 @@
+{
+  "name": "drupal/drupal8_entity",
+  "type": "drupal-module",
+  "description": "Drupal 8 Test module for working with entities.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "http://drupal.org/project/drupal8_entity",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/drupal8_entity",
+    "source": "http://cgit.drupalcode.org/drupal8_entity"
+  },
+  "require": { }
+}
