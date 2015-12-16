@@ -1,7 +1,7 @@
 
 # Drupal8EntityItem routing definition
 entity.drupal8_entity_item.canonical:
-  path: '/admin/structure/drupal8_entity_item/{drupal8_entity_item}'
+  path: '/admin/drupal8_entity_item/{drupal8_entity_item}'
   defaults:
     _entity_view: 'drupal8_entity_item'
     _title: 'Drupal8 Entity Item'
@@ -11,7 +11,7 @@ entity.drupal8_entity_item.canonical:
     _admin_route: TRUE
 
 entity.drupal8_entity_item.collection:
-  path: '/admin/structure/drupal8_entity_item'
+  path: '/admin/drupal8_entity_item'
   defaults:
     _entity_list: 'drupal8_entity_item'
     _title: 'Drupal8 Entity Item list'
@@ -21,7 +21,7 @@ entity.drupal8_entity_item.collection:
     _admin_route: TRUE
 
 entity.drupal8_entity_item.add_form:
-  path: '/admin/structure/drupal8_entity_item/add'
+  path: '/admin/drupal8_entity_item/add'
   defaults:
     _entity_form: drupal8_entity_item.add
     _title: 'Add Drupal8 Entity Item'
@@ -31,7 +31,7 @@ entity.drupal8_entity_item.add_form:
     _admin_route: TRUE
 
 entity.drupal8_entity_item.edit_form:
-  path: '/admin/structure/drupal8_entity_item/{drupal8_entity_item}/edit'
+  path: '/admin/drupal8_entity_item/{drupal8_entity_item}/edit'
   defaults:
     _entity_form: drupal8_entity_item.edit
     _title: 'Edit Drupal8 Entity Item'
@@ -41,7 +41,7 @@ entity.drupal8_entity_item.edit_form:
     _admin_route: TRUE
 
 entity.drupal8_entity_item.delete_form:
-  path: '/admin/structure/drupal8_entity_item/{drupal8_entity_item}/delete'
+  path: '/admin/drupal8_entity_item/{drupal8_entity_item}/delete'
   defaults:
     _entity_form: drupal8_entity_item.delete
     _title: 'Delete Drupal8 Entity Item'
