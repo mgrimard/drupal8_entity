@@ -3,5 +3,4 @@ entity.drupal8_entity_item.add_form:
   title: 'Add Drupal8 Entity Item'
   appears_on:
     - entity.drupal8_entity_item.collection
-    - entity.drupal8_entity_item.canonical
 
