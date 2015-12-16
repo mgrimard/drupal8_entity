@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\drupal8_entity\Entity\Form\Drupal8EntityItemDeleteForm.
+ * Contains \Drupal\drupal8_entity\Form\Drupal8EntityItemDeleteForm.
  */
 
-namespace Drupal\drupal8_entity\Entity\Form;
+namespace Drupal\drupal8_entity\Form;
 
 use Drupal\Core\Entity\ContentEntityConfirmFormBase;
 use Drupal\Core\Form\FormStateInterface;

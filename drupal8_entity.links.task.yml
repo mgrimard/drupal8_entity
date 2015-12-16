@@ -3,6 +3,7 @@ drupal8_entity_item.settings_tab:
   route_name: drupal8_entity_item.settings
   title: 'Settings'
   base_route: drupal8_entity_item.settings
+  
 entity.drupal8_entity_item.canonical:
   route_name: entity.drupal8_entity_item.canonical
   base_route: entity.drupal8_entity_item.canonical

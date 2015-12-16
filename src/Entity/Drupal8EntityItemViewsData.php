@@ -2,7 +2,7 @@
 
 /**
  * @file
- * Contains \Drupal\drupal8_entity\Entity\Drupal8EntityItem.
+ * Contains \Drupal\drupal8_entity\Entity\Drupal8EntityItemViewsData.
  */
 
 namespace Drupal\drupal8_entity\Entity;

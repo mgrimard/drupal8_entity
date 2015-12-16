@@ -53,7 +53,7 @@ entity.drupal8_entity_item.delete_form:
 drupal8_entity_item.settings:
   path: 'admin/structure/drupal8_entity_item'
   defaults:
-   _form: '\Drupal\drupal8_entity\Entity\Form\Drupal8EntityItemSettingsForm'
+   _form: '\Drupal\drupal8_entity\Form\Drupal8EntityItemSettingsForm'
    _title: 'Drupal8 Entity Item settings'
   requirements:
     _permission: 'administer drupal8 entity item entities'

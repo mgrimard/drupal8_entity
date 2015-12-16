@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\drupal8_entity\Entity\Form\Drupal8EntityItemForm.
+ * Contains \Drupal\drupal8_entity\Form\Drupal8EntityItemForm.
  */
 
-namespace Drupal\drupal8_entity\Entity\Form;
+namespace Drupal\drupal8_entity\Form;
 
 use Drupal\Core\Entity\ContentEntityForm;
 use Drupal\Core\Form\FormStateInterface;

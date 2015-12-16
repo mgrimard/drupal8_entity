@@ -29,10 +29,10 @@ use Drupal\user\UserInterface;
  *     "views_data" = "Drupal\drupal8_entity\Entity\Drupal8EntityItemViewsData",
  *
  *     "form" = {
- *       "default" = "Drupal\drupal8_entity\Entity\Form\Drupal8EntityItemForm",
- *       "add" = "Drupal\drupal8_entity\Entity\Form\Drupal8EntityItemForm",
- *       "edit" = "Drupal\drupal8_entity\Entity\Form\Drupal8EntityItemForm",
- *       "delete" = "Drupal\drupal8_entity\Entity\Form\Drupal8EntityItemDeleteForm",
+ *       "default" = "Drupal\drupal8_entity\Form\Drupal8EntityItemForm",
+ *       "add" = "Drupal\drupal8_entity\Form\Drupal8EntityItemForm",
+ *       "edit" = "Drupal\drupal8_entity\Form\Drupal8EntityItemForm",
+ *       "delete" = "Drupal\drupal8_entity\Form\Drupal8EntityItemDeleteForm",
  *     },
  *     "access" = "Drupal\drupal8_entity\Drupal8EntityItemAccessControlHandler",
  *   },
